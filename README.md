@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+<img width="1005" alt="Ekran Resmi 2024-12-17 03 00 17" src="https://github.com/user-attachments/assets/2e1f089c-8253-4092-b3ac-cb1425dbea94" />
+
+
+
 
 ## Getting Started
 
